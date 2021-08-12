@@ -4,4 +4,4 @@ const multiplicacao = (a,b) =>{
 };
 
 //Exportando função
-module.exports = multiplicacao;
+export {multiplicacao};

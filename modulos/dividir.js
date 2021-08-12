@@ -6,4 +6,4 @@ const dividir = (a, b) => {
     }
 }
 
-module.exports = dividir;
+export {dividir};
