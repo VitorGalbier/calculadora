@@ -1,3 +1,5 @@
-function restarNumeros(n1, n2) {
-    return (valor(n1) - valor(n2));
-},
+function subtrair(n1, n2) {
+    return n1-n2
+}
+
+module.exports = subtrair
