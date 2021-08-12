@@ -1,4 +1,7 @@
-module.exports = {
-multiplicacao: (a,b) => a * b
-}
+//Declarando função somar
+const multiplicacao = (a,b) =>{
+    return a * b;
+};
 
+//Exportando função
+module.exports = multiplicacao;
